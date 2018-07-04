@@ -1,8 +1,7 @@
-#ifndef HEADER_FILE
-#define HEADER_FILE
+#ifndef DAY4
+#define DAY4
 
 void my_swap(int *a, int *b);
-void my_putchar(char n);
 void my_putstr(char const *str);
 int my_strlen(char const *str);
 char *my_evil_str(char *str);

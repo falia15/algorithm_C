@@ -1,5 +1,5 @@
-#ifndef HEADER_FILE
-#define HEADER_FILE
+#ifndef DAY3
+#define DAY3
 
 int my_print_alpha(void);
 int my_print_revalpha(void);

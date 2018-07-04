@@ -1,5 +1,5 @@
-#ifndef HEADER_FILE
-#define HEADER_FILE
+#ifndef DAY5
+#define DAY5
 
 int my_compute_factorial_it(int nb);
 int my_compute_factorial_rec(int nb);

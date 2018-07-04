@@ -1,16 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "source.h"
-
-int main() {
-
-	//
-}
-
-// display a single char
-void my_putchar(char c) {
-	write(1, &c, 1);
-}
+#include "day4.h"
+#include "day3.h"
 
 // swap 2 integers
 void my_swap(int *a, int *b) {

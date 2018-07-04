@@ -1,10 +1,5 @@
 #include <stdio.h>;
-#include "source.h"
-
-int main() {
-
-	//
-}
+#include "day3.h"
 
 // display a single char
 void my_putchar(char c)

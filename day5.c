@@ -1,12 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "source.h"
-
-int main() {
-
-//
-
-}
+#include "day5.h"
 
 int my_compute_factorial_it(int nb) {
 
